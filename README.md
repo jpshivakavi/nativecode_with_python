@@ -60,9 +60,9 @@ native code (C/C++) with Python.
 
 # Building and Using the Samples:
 # ctypes_samples
-<br />To build and install the samples in ctypes_samples go through the instructions provided in [ctypes_sampes\Readme.txt](https://github.com/jpshivakavi/nativecode_with_python/blob/main/ctypes_samples/Readme.txt)
+<br />To build and install the samples in [ctypes_samples](https://github.com/jpshivakavi/nativecode_with_python/tree/main/ctypes_samples) go through the instructions provided in [ctypes_sampes\Readme.txt](https://github.com/jpshivakavi/nativecode_with_python/blob/main/ctypes_samples/Readme.txt)
 <br />
 
 # python_c_api_samples
-<br />To build and install the samples in python_c_api_samples go through the instructions provided in [python_c_api_samples\Readme.txt](https://github.com/jpshivakavi/nativecode_with_python/blob/main/python_c_api_samples/Readme.txt)
+<br />To build and install the samples in [python_c_api_samples](https://github.com/jpshivakavi/nativecode_with_python/tree/main/python_c_api_samples) go through the instructions provided in [python_c_api_samples\Readme.txt](https://github.com/jpshivakavi/nativecode_with_python/blob/main/python_c_api_samples/Readme.txt)
 <br />
