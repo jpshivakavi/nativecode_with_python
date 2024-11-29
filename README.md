@@ -1,7 +1,7 @@
 # native-code-with-python-samples
 This repo contains the samples to demonstrate the methods to interface native code with Python.
 
-Please go through the PDF document in the docs folder to know more about how to interface/ integrate 
+Please go through the PDF document in the [docs](https://github.com/jpshivakavi/nativecode_with_python/tree/main/docs) folder to know more about how to interface/ integrate 
 native code (C/C++) with Python.
 
 
